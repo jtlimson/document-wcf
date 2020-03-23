@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\@TEMP (Regularly Cleaned up)\LIMSON Julius\efiling</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appSettings.config">
+      <publishTime>03/11/2020 13:24:47</publishTime>
+    </File>
+    <File Include="App_Data/efiling.mdf">
+      <publishTime>03/10/2020 15:49:10</publishTime>
+    </File>
+    <File Include="App_Data/efilingosk.mdf">
+      <publishTime>03/10/2020 15:35:54</publishTime>
+    </File>
+    <File Include="App_Data/efilingosk_log.ldf">
+      <publishTime>03/10/2020 15:35:54</publishTime>
+    </File>
+    <File Include="App_Data/efiling_log.ldf">
+      <publishTime>03/10/2020 15:49:10</publishTime>
+    </File>
+    <File Include="bin/e-filing.dll">
+      <publishTime>03/17/2020 13:16:47</publishTime>
+    </File>
+    <File Include="bin/e-filing.pdb">
+      <publishTime>03/17/2020 13:16:47</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/05/2020 09:25:10</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/05/2020 09:25:10</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>03/05/2020 09:25:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/11/2020 12:53:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
